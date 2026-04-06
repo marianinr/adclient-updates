@@ -1,7 +1,7 @@
 {
-  "versionCode": 132,
-  "versionName": "1.7.103",
-  "releaseNotes": "Correcciones y mejoras. Actualización recomendada.",
+  "versionCode": 2,
+  "versionName": "1.0.1",
   "apkUrl": "https://raw.githubusercontent.com/marianinr/adclient-updates/main/release.apk",
-  "forceUpdate": false
+  "apkSha256": "REEMPLAZR_CON_SHA256_REAL_DEL_RELEASE_APK_EN_MINUSCULAS_64_HEX",
+  "changelog": "Versión alineada con la build actual (1.0.1 / código 2). Sustituye apkSha256 tras subir release.apk."
 }

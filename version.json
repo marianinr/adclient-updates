@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
+  "versionCode": 3,
+  "versionName": "1.0.2",
   "apkUrl": "https://raw.githubusercontent.com/marianinr/adclient-updates/main/release.apk",
-  "apkSha256": "REEMPLAZR_CON_SHA256_REAL_DEL_RELEASE_APK_EN_MINUSCULAS_64_HEX",
-  "changelog": "Versión alineada con la build actual (1.0.1 / código 2). Sustituye apkSha256 tras subir release.apk."
+  "apkSha256": "30bf79bcfdb4b69fbc50621d4ee39a66b3d9af7c53e5f558aacc7030a9f88cb6",
+  "changelog": "1.0.2: usuario y contraseña en ficha, plantilla WhatsApp Credenciales, chip siempre visible con texto guía, verificación y build release. Sube release.apk y este version.json; si recompilás el APK, recalculá apkSha256."
 }

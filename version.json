@@ -3,5 +3,5 @@
   "versionName": "1.0.2",
   "apkUrl": "https://raw.githubusercontent.com/marianinr/adclient-updates/main/release.apk",
   "apkSha256": "30bf79bcfdb4b69fbc50621d4ee39a66b3d9af7c53e5f558aacc7030a9f88cb6",
-  "changelog": "1.0.2: usuario y contraseña en ficha, plantilla WhatsApp Credenciales, chip siempre visible con texto guía, verificación y build release. Sube release.apk y este version.json; si recompilás el APK, recalculá apkSha256."
+  "changelog": "Credenciales en WhatsApp, etiquetas y mejoras."
 }

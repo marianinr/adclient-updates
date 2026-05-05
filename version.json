@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
+  "versionCode": 4,
+  "versionName": "1.0.3",
   "apkUrl": "https://raw.githubusercontent.com/marianinr/adclient-updates/main/release.apk",
   "apkSha256": "30bf79bcfdb4b69fbc50621d4ee39a66b3d9af7c53e5f558aacc7030a9f88cb6",
   "changelog": "Credenciales en WhatsApp, etiquetas y mejoras."

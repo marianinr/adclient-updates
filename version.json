@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
+  "versionCode": 5,
+  "versionName": "1.0.4",
   "apkUrl": "https://raw.githubusercontent.com/marianinr/adclient-updates/main/release.apk",
   "apkSha256": "0faa9b4c75e2f42c02b0a4d835f553b5dd44a37c89011d1d87065333d034980d",
   "changelog": "Versión 1.0.3: mejoras y correcciones. Actualiza desde Ajustes > Buscar actualización."

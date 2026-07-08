@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
+  "versionCode": 7,
+  "versionName": "1.0.6",
   "apkUrl": "https://raw.githubusercontent.com/marianinr/adclient-updates/main/release.apk",
-  "apkSha256": "129e753d5b9a2ea2ba0b3d065a589cc521173d70f1d435e233dba078265cb56c",
-  "changelog": "Versión 1.0.4: migración de servicio al editar cliente, aviso de precio en renovación si difiere del catálogo, y mejoras de estabilidad."
+  "apkSha256": "dce5c07ce5f7711449d4ade4d8f0ec99d7268b73bae34ff9e88bd29cf795b650",
+  "changelog": "Versión 1.0.7: mejora solicitada por la intensa de matilde"
 }
